@@ -1,0 +1,69 @@
+@media screen and (max-width: 480px) {
+.container_img1,
+.container_img2,
+.container_img3,
+.container_img4,
+.container_img5,
+.container_img6 {
+  filter: grayscale(100%);
+}
+.container_img1 .info {
+  top: 50%;
+}
+
+.container_img2 .info {
+  top: 50%;
+}
+
+.container_img3 .info {
+  top: 50%;
+}
+
+.container_img4 .info {
+  top: 50%;
+}
+.container_img5 .info {
+  top: 50%;
+}
+.container_img6 .info{
+  top: 50%;
+}
+
+
+.bg-imagenes .container-icon1 {
+  top: 0%;
+  opacity: 1;
+}
+
+.uno .articleuno {
+  border: 1px blue solid;
+}
+.uno .bg-infouno {
+  border: 1px blue solid;
+}
+.uno .btn-planuno {
+  background-color: blue;
+  color: white;
+}
+.dos .articledos {
+  border: 1px blue solid;
+}
+.dos .bg-infodos {
+  border: 1px blue solid;
+}
+.dos .btn-plandos {
+  background-color: blue;
+  color: white;
+}
+.tres .articletres {
+  border: 1px blue solid;
+}
+.tres .bg-infotres {
+  border: 1px blue solid;
+}
+.tres .btn-plantres {
+  background-color: blue;
+  color: white;
+}
+
+}
